@@ -1,0 +1,496 @@
+[
+    {
+        "id": 1,
+        "name": "Hello Kitty",
+        "franchise": "Sanrio",
+        "year": "1974",
+        "likes": [
+            "apple pie",
+            "playing piano",
+            "reading"
+        ],
+        "dislikes": [
+            "dislike1",
+            "dislike2",
+            "dislike3"
+        ],
+        "personality": "ESFJ",
+        "introversion": 4.0,
+        "extroversion": 96.0,
+        "intuition": 44.0,
+        "sensing": 56.0,
+        "thinking": 2.0,
+        "feelings": 98.0,
+        "judging": 62.0,
+        "perceiving": 38.0
+    },
+
+    {
+        "id": 2,
+        "name": "My Melody",
+        "franchise": "Sanrio",
+        "year": "1975",
+        "likes": [
+            "baking",
+            "her pink hood",
+            "reading"
+        ],
+        "dislikes": [
+            "dirty things",
+            "lies",
+            "arguments"
+        ],
+        "personality": "ISFJ",
+        "introversion": 90.0,
+        "extroversion": 10.0,
+        "intuition": 33.0,
+        "sensing": 67.0,
+        "thinking": 1.0,
+        "feelings": 99.0,
+        "judging": 68.0,
+        "perceiving": 32.0
+    },
+    
+    {
+        "id": 3,
+        "name": "Pompompurin",
+        "franchise": "Sanrio",
+        "year": "1996",
+        "likes": [
+            "pudding",
+            "the phrase \"let's go out!\"",
+            "soft stuff"
+        ],
+        "dislikes": [
+            "the word \"stay\"",
+            "star candy",
+            "frying pan"
+        ],
+        "personality": "ESFP",
+        "introversion": 10.0,
+        "extroversion": 90.0,
+        "intuition": 27.0,
+        "sensing": 73.0,
+        "thinking": 5.0,
+        "feelings": 95.0,
+        "judging": 14.0,
+        "perceiving": 86.0
+    },
+
+    {
+        "id": 4,
+        "name": "LovelyMocha",
+        "franchise": "Sanrio",
+        "year": "2002",
+        "likes": [
+            "chatting at cafes",
+            "fashion",
+            "strawberries"
+        ],
+        "dislikes": [
+            "bell peppers",
+            "cruelty",
+            "isolation"
+        ],
+        "personality": "ENFP",
+        "introversion": 28.0,
+        "extroversion": 72.0,
+        "intuition": 88.0,
+        "sensing": 12.0,
+        "thinking": 33.0,
+        "feelings": 67.0,
+        "judging": 15.0,
+        "perceiving": 85.0
+    },
+
+    {
+        "id": 5,
+        "name": "Macaroon",
+        "franchise": "Sanrio",
+        "year": "2011",
+        "likes": [
+            "collecting cute trinkets",
+            "fluffy poodles",
+            "pink ribbon"
+        ],
+        "dislikes": [
+            "horrid days",
+            "green things",
+            "parting with pompompurin"
+        ],
+        "personality": "ENFJ",
+        "introversion": 6.0,
+        "extroversion": 94.0,
+        "intuition": 51.0,
+        "sensing": 49.0,
+        "thinking": 0.0,
+        "feelings": 100.0,
+        "judging": 80.0,
+        "perceiving": 20.0
+    },
+
+    {
+        "id": 6,
+        "name": "Rilakkuma",
+        "franchise": "San-x",
+        "year": "2003",
+        "likes": [
+            "pancakes",
+            "music",
+            "hot springs"
+        ],
+        "dislikes": [
+            "exerting effort",
+            "overly spicy food",
+            "hot weather"
+        ],
+        "personality": "INFP",
+        "introversion": 69.0,
+        "extroversion": 31.0,
+        "intuition": 84.0,
+        "sensing": 16.0,
+        "thinking": 47.0,
+        "feelings": 53.0,
+        "judging": 0.0,
+        "perceiving": 100.0
+    },
+
+    {
+        "id": 7,
+        "name": "Korilakkuma",
+        "franchise": "San-x",
+        "year": "2004",
+        "likes": [
+            "pranks",
+            "hardcore music",
+            "dango"
+        ],
+        "dislikes": [
+            "scary things",
+            "being told to sit still",
+            "being ignored"
+        ],
+        "personality": "INFP",
+        "introversion": 93.0,
+        "extroversion": 7.0,
+        "intuition": 93.0,
+        "sensing": 7.0,
+        "thinking": 3.0,
+        "feelings": 97.0,
+        "judging": 7.0,
+        "perceiving": 93.0
+    },
+
+    {
+        "id": 8,
+        "name": "Neko",
+        "franchise": "San-x",
+        "year": "2012",
+        "likes": [
+            "rice balls",
+            "cat grass",
+            "hiding in tuna cans"
+        ],
+        "dislikes": [
+            "mandarin oranges",
+            "thier chubby body",
+            "being the center of attention"
+        ],
+        "personality": "ISFP",
+        "introversion": 100.0,
+        "extroversion": 0.0,
+        "intuition": 0.0,
+        "sensing": 100.0,
+        "thinking": 0.0,
+        "feelings": 100.0,
+        "judging": 38.0,
+        "perceiving": 62.0
+    },
+
+    {
+        "id": 9,
+        "name": "Shirokuma",
+        "franchise": "San-x",
+        "year": "2012",
+        "likes": [
+            "hot tea",
+            "cooking",
+            "peace & quiet"
+        ],
+        "dislikes": [
+            "the cold",
+            "mandarin oranges",
+            "losing its blanket"
+        ],
+        "personality": "INFP",
+        "introversion": 100.0,
+        "extroversion": 0.0,
+        "intuition": 82.0,
+        "sensing": 18.0,
+        "thinking": 9.0,
+        "feelings": 91.0,
+        "judging": 27.0,
+        "perceiving": 73.0
+    },
+
+    {
+        "id": 10,
+        "name": "Penguin?",
+        "franchise": "San-x",
+        "year": "2012",
+        "likes": [
+            "cucumber",
+            "watermelon",
+            "bitter coffee"
+        ],
+        "dislikes": [
+            "uncertainty",
+            "loud noises",
+            "strong smells"
+        ],
+        "personality": "INTP",
+        "introversion": 100.0,
+        "extroversion": 0.0,
+        "intuition": 69.0,
+        "sensing": 31.0,
+        "thinking": 100.0,
+        "feelings": 0.0,
+        "judging": 38.0,
+        "perceiving": 62.0
+    },
+
+    {
+        "id": 11,
+        "name": "Chiikawa",
+        "franchise": "Chiikawa",
+        "year": "2017",
+        "likes": [
+            "yogurt",
+            "dancing",
+            "hanging out with friends"
+        ],
+        "dislikes": [
+            "broccoli",
+            "evil monsters",
+            "spicy food"
+        ],
+        "personality": "INFP",
+        "introversion": 98.0,
+        "extroversion": 2.0,
+        "intuition": 72.0,
+        "sensing": 28.0,
+        "thinking": 0.0,
+        "feelings": 100.0,
+        "judging": 27.0,
+        "perceiving": 73.0
+    },
+
+    {
+        "id": 12,
+        "name": "Hachiware",
+        "franchise": "Chiikawa",
+        "year": "2020",
+        "likes": [
+            "playing guitar",
+            "photography",
+            "ramen"
+        ],
+        "dislikes": [
+            "horror movies",
+            "evil monsters",
+            "seeing his friends hurt"
+        ],
+        "personality": "ESFJ",
+        "introversion": 5.0,
+        "extroversion": 95.0,
+        "intuition": 36.0,
+        "sensing": 64.0,
+        "thinking": 1.0,
+        "feelings": 99.0,
+        "judging": 92.0,
+        "perceiving": 8.0
+    },
+
+    {
+        "id": 13,
+        "name": "Usagi",
+        "franchise": "Chiikawa",
+        "year": "2019",
+        "likes": [
+            "spicy food",
+            "pudding",
+            "teasing their friends"
+        ],
+        "dislikes": [
+            "momonga",
+            "being touched",
+            "authority"
+        ],
+        "personality": "ESTP",
+        "introversion": 2.0,
+        "extroversion": 98.0,
+        "intuition": 45.0,
+        "sensing": 55.0,
+        "thinking": 94.0,
+        "feelings": 6.0,
+        "judging": 1.0,
+        "perceiving": 99.0
+    },
+
+    {
+        "id": 14,
+        "name": "Rakko",
+        "franchise": "Chiikawa",
+        "year": "2021",
+        "likes": [
+            "sweets",
+            "hunting",
+            "driving their friends"
+        ],
+        "dislikes": [
+            "online fighting games",
+            "momonga",
+            "disruptive behavior"
+        ],
+        "personality": "ENFJ",
+        "introversion": 46.0,
+        "extroversion": 54.0,
+        "intuition": 55.0,
+        "sensing": 45.0,
+        "thinking": 45.0,
+        "feelings": 55.0,
+        "judging": 88.0,
+        "perceiving": 12.0
+    },
+
+    {
+        "id": 15,
+        "name": "Kurimanju",
+        "franchise": "Chiikawa",
+        "year": "2021",
+        "likes": [
+            "alcohol",
+            "snacks",
+            "cold baths"
+        ],
+        "dislikes": [
+            "disruptive behavior",
+            "intense hangovers",
+            "extremely sour food"
+        ],
+        "personality": "ISTP",
+        "introversion": 98.0,
+        "extroversion": 2.0,
+        "intuition": 7.0,
+        "sensing": 93.0,
+        "thinking": 89.0,
+        "feelings": 11.0,
+        "judging": 4.0,
+        "perceiving": 96.0
+    },
+
+    {
+        "id": 16,
+        "name": "RJ",
+        "franchise": "BT21",
+        "year": "2017",
+        "likes": [
+            "brushing hair",
+            "bread",
+            "watching movies"
+        ],
+        "dislikes": [
+            "shaving",
+            "eating rotten food",
+            "being forgotten"
+        ],
+        "personality": "ISFJ",
+        "introversion": 96.0,
+        "extroversion": 4.0,
+        "intuition": 12.0,
+        "sensing": 88.0,
+        "thinking": 12.0,
+        "feelings": 88.0,
+        "judging": 80.0,
+        "perceiving": 20.0
+    },
+
+    {
+        "id": 17,
+        "name": "Koya",
+        "franchise": "BT21",
+        "year": "2017",
+        "likes": [
+            "sleeping",
+            "eating leaves",
+            "studying"
+        ],
+        "dislikes": [
+            "scary movies",
+            "opening his eyes",
+            "his ear falling off"
+        ],
+        "personality": "INFJ",
+        "introversion": 96.0,
+        "extroversion": 4.0,
+        "intuition": 98.0,
+        "sensing": 12.0,
+        "thinking": 4.0,
+        "feelings": 96.0,
+        "judging": 52.0,
+        "perceiving": 48.0
+    },
+
+    {
+        "id": 18,
+        "name": "Cooky",
+        "franchise": "BT21",
+        "year": "2017",
+        "likes": [
+            "working out",
+            "energy drinks",
+            "money"
+        ],
+        "dislikes": [
+            "stress",
+            "opening his eyes",
+            "his ear falling off"
+        ],
+        "personality": "ESTP",
+        "introversion": 4.0,
+        "extroversion": 96.0,
+        "intuition": 11.0,
+        "sensing": 89.0,
+        "thinking": 81.0,
+        "feelings": 19.0,
+        "judging": 0.0,
+        "perceiving": 100.0
+    },
+
+    {
+        "id": 19,
+        "name": "Shooky",
+        "franchise": "BT21",
+        "year": "2017",
+        "likes": [
+            "apple juice",
+            "pranks",
+            "cooking"
+        ],
+        "dislikes": [
+            "milk",
+            "being soggy",
+            "getting eaten"
+        ],
+        "personality": "ENTP",
+        "introversion": 4.0,
+        "extroversion": 96.0,
+        "intuition": 92.0,
+        "sensing": 8.0,
+        "thinking": 96.0,
+        "feelings": 4.0,
+        "judging": 4.0,
+        "perceiving": 92.0
+    }
+]
+
